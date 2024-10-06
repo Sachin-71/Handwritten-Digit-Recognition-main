@@ -12,10 +12,10 @@ Using various Deep learnig Architecture and then deploying the model
 
 ## Features
 
- > Trying various deep learnig models
- > Improving model accuracy
- > Deploying all models together in one web app
- > Making evaluation Report of the project
+ - Implemented and tested MLP, CNN, and LeNet-5 architectures for digit recognition.
+ - Tuned hyperparameters to achieve over 97% accuracy on the MNIST dataset.
+ - Deployed all models in a single web app for seamless performance comparison.
+ - Created detailed reports on model performance, including accuracy, precision, and efficiency.
 
 ## Tech
 
@@ -68,6 +68,3 @@ Countributers and Teammate in this project
 | Pranav Gupta | https://github.com/pranav412-code | https://www.linkedin.com/in/pranav-gupta-45724b22a/ |
 | Sarang Kishor Masurkar  | https://github.com/SarangMasurkar | https://www.linkedin.com/in/sarang-masurkar-643819246 |
 | Shahnaz Ali | https://github.com/S-ali24 | https://www.linkedin.com/in/s-ali-3439b2314?trk=contact-info |
-
-
-
