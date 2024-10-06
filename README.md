@@ -63,8 +63,8 @@ Countributers and Teammate in this project
 
 | Members | [Github] | [LinkedIn] |
 | ------ | ------ | ------ |
-| Akhil Jain | https://github.com/AkhilJain5 | https://www.linkedin.com/in/akhil-jain-61107122a/ |
 | Sachin Rajawat | https://github.com/Sachin-71 | https://www.linkedin.com/in/sachin-rajawat-119ba4237/ |
+| Akhil Jain | https://github.com/AkhilJain5 | https://www.linkedin.com/in/akhil-jain-61107122a/ |
 | Pranav Gupta | https://github.com/pranav412-code | https://www.linkedin.com/in/pranav-gupta-45724b22a/ |
 | Sarang Kishor Masurkar  | https://github.com/SarangMasurkar | https://www.linkedin.com/in/sarang-masurkar-643819246 |
 | Shahnaz Ali | https://github.com/S-ali24 | https://www.linkedin.com/in/s-ali-3439b2314?trk=contact-info |
